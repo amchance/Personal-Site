@@ -103,6 +103,11 @@ margin: 100px 0; /*100px for top and bottom, 0 for left and right */
   margin-left: 30px;
 }
 
+.profile-pic {
+   width: 540px; 
+   height: auto;
+}
+
 
 .pro {
   text-decoration: underline;
